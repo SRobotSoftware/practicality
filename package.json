@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Zmixon/practicality/issues"
   },
-  "homepage": "https://github.com/Zmixon/practicality#readme"
+  "homepage": "https://github.com/Zmixon/practicality#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-vynyl": "^3.1.1"
+  }
 }
