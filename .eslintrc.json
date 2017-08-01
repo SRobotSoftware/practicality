@@ -1,0 +1,6 @@
+{
+  "extends": "vynyl",
+  "rules": {
+    "semi": ["error", "never"]
+  }
+}
